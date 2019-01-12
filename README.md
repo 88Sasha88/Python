@@ -1,1 +1,2 @@
 # Python
+TransactionalEnergy.py is a program I made for a project in which I briefly participated for Open Source Maker Lab having to do with the development of a transactional energy grid. I made a script which used an optimization method to find the best range for a solar panel to collect power to maximize on total energy based on sunlight availability throughout a given day. The rest of the files have to do with a hydrokinetic energy mill I am working on for a startup called Kineticurrents. 
