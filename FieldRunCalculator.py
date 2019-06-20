@@ -87,7 +87,7 @@ def main():
     plt.ylabel('Energy [GW hr]')
     plt.show()
 
-# This marks the return to non-garbage code.
+# This marks the return to relatively non-garbage code.
 
 def WattFunction(xVector, a): # third-degree monomial function (basically sets P = 0.5 * rho * area * velocity ** 3 to P = a * velocity ** 3. In other words, a = 0.5 * rho * area)
     yVector = a * multiply(multiply(xVector, xVector), xVector)
